@@ -1,7 +1,7 @@
 <!-- Snake Game Repo View -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F9FF&center=true&vCenter=true&width=800&lines=🚀+Ashish+Suryavanshi;💻+Full+Stack+Web+Developer;⚛️+React+%7C+Three.js+%7C+GSAP+Enthusiast;🧠+Engineering+Futuristic+Interfaces" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=🚀+Ashish+Suryavanshi;💻+Full+Stack+Web+Developer;⚛️+React+%7C+Three.js+%7C+GSAP+Enthusiast;🧠+Engineering+Futuristic+Interfaces" />
 </p>
 
 ![Snake](https://raw.githubusercontent.com/divyesh-singh-gehlot/divyesh-singh-gehlot/output/snake.svg?t=1)
@@ -81,10 +81,10 @@ location: 🌍 Earth | 🌐 Internet
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=isashish&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=isashish&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00f9ff&height=150&section=footer" />
 
