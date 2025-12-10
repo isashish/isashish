@@ -70,10 +70,10 @@ location: 🌍 Earth | 🌐 Internet
 
 
 ## 📊 GitHub Activity
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=isashish&theme=tokyonight&column=9" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=isashish&theme=tokyonight&column=9"/></p>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=isashish&show_icons=true&theme=tokyonight&hide_title=true" /> </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=isashish&show_icons=true&theme=tokyonight&hide_title=true"/> </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isashish&theme=tokyonight" />
