@@ -10,15 +10,23 @@
 ---
 
 ## 🧠 About Me
+<img align="right" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif">
 
 ```yaml
-name: Ashish Suryavanshi
-role: Full Stack Developer
-focus: Futuristic Interfaces & Scalable Systems
-passion: Bridging Aesthetics + Logic
-location: 🌍 Earth | 🌐 Internet
-```
 
+name: Ashish Suryavanshi
+role: Full Stack Developer | AI/ML Enthusiast
+focus: Scalable Systems & Intelligent Applications
+passion: Bridging Aesthetics + Logic
+building: Web Apps | AI/ML Solutions | Developer Tools
+learning: Spring Boot | Docker | Cloud Technologies
+problem_solving: 650+ DSA Problems Solved
+location: 🌍 Earth | 🌐 Internet
+
+
+
+
+```
 ## 🛠️ Tech Stack
 
 <div align="center">
